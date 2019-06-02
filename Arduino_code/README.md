@@ -5,6 +5,7 @@
 ## Air_controller_test
 電磁弁の性能テスト用
 何msから応答するか → pwmの分周で対応可能か確認する
+**安定した動作の最小delay:20[ms]**
 
 ## Air_controller 
 3流路の電磁弁操作
