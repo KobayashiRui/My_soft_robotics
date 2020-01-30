@@ -1,7 +1,7 @@
 int air1 = 11;
 int air2 = 12;
 int air3 = 13;
-int delay_time = 500;//各流路がONになっている時間
+int delay_time =200;//各流路がONになっている時間
 
 void setup(){
     pinMode(air1,OUTPUT);
